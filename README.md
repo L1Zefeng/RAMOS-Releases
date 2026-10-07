@@ -3,7 +3,7 @@
 可靠性分析与维修优化系统  
 Reliability Analysis and Maintenance Optimization System
 
-**0.9.0 内测版** · Windows 10/11 64 位
+**0.9.1 内测版** · Windows 10/11 64 位
 
 ## 下载
 
