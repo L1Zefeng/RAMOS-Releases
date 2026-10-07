@@ -7,11 +7,15 @@ Reliability Analysis and Maintenance Optimization System
 
 ## 开始使用
 
-1. 在 [下载页面](https://github.com/L1Zefeng/RAMOS-Releases/releases/latest) 下载 `RAMOS-Windows-x64.zip`。
-2. 解压整个压缩包，例如解压到 `D:\RAMOS`，然后双击 `RAMOS.exe`。
+1. 下载 [在线安装器 RAMOS-Setup.exe](https://github.com/L1Zefeng/RAMOS-Releases/releases/download/v2026.10.07.5/RAMOS-Setup.exe)，双击打开。
+2. 选择安装位置，点击“安装”。安装器会从 GitHub 下载最新版本，可勾选创建桌面快捷方式。
 3. 首次打开时输入激活码。以后每次打开会联网验证，不必重复输入。
 
-不要只复制 EXE，也不要在压缩包内直接运行。具体操作见包内的 `RAMOS使用手册.docx`。
+安装器很小，但首次仍需下载约 989 MB 的程序文件，速度取决于访问 GitHub 的网络情况。安装器链接固定，下载的软件版本会随发布更新。
+
+也可以在 [下载页面](https://github.com/L1Zefeng/RAMOS-Releases/releases/latest) 下载 `RAMOS-Windows-x64.zip`，完整解压后运行 `RAMOS.exe`。不要只复制这个 EXE，也不要在压缩包内直接运行。具体操作见包内的 `RAMOS使用手册.docx`。
+
+安装器不会覆盖已有的 RAMOS 文件夹；已有版本请从软件内更新。当前安装器尚无 Windows 代码签名，系统可能显示未知发布者提示，请核对下载来源。
 
 ## 软件更新
 
