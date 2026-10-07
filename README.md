@@ -7,7 +7,7 @@ Reliability Analysis and Maintenance Optimization System
 
 ## 下载
 
-[在线安装器](https://github.com/L1Zefeng/RAMOS-Releases/releases/latest/download/RAMOS-Setup.exe) · [完整安装包](https://github.com/L1Zefeng/RAMOS-Releases/releases/latest/download/RAMOS-Windows-x64.zip)
+[在线安装器](https://github.com/L1Zefeng/RAMOS-Releases/releases/latest/download/RAMOS-Setup.exe) · [完整安装包](https://github.com/L1Zefeng/RAMOS-Releases/releases/latest/download/RAMOS-Windows-x64.zip) · [使用手册](https://github.com/L1Zefeng/RAMOS-Releases/releases/latest/download/RAMOS-User-Manual.docx)
 
 运行安装器完成安装；使用完整包时，解压后打开 `RAMOS.exe`。首次使用输入激活码。
 
